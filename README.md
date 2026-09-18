@@ -81,6 +81,16 @@ The next major step is to test whether a small semantic core can describe multip
 
 See [`ROADMAP.md`](ROADMAP.md) for the current development direction.
 
+## Examples
+
+See [`examples/`](examples/) for small, domain-neutral FlowScript examples.
+
+Start with [`examples/minimal-application.md`](examples/minimal-application.md) for a compact introduction to the notation.
+
+## Release
+
+The current public draft is available as the pre-release [`v0.1.0`](https://github.com/erlandkjensli-hue/FlowScript/releases/tag/v0.1.0).
+
 ## Community
 
 Use GitHub Discussions for open-ended questions, semantic design, terminology, and broader project discussion. Use Issues for concrete, actionable problems and tasks.
