@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "FlowScript"
+message: "If you use FlowScript in research, teaching, tooling, or published work, please cite the project repository."
+type: software
+authors:
+  - family-names: Kjensli
+    given-names: Erland
+    website: "https://github.com/erlandkjensli-hue"
+repository-code: "https://github.com/erlandkjensli-hue/FlowScript"
+url: "https://github.com/erlandkjensli-hue/FlowScript"
+date-released: "2026-09-18"
+license: "Apache-2.0"
+version: "0.1.0"
