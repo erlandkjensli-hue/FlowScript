@@ -77,6 +77,14 @@ The current development order is:
 
 The next major step is to test whether a small semantic core can describe multiple application types without becoming domain-specific or turning into a programming language.
 
+## Roadmap
+
+See [`ROADMAP.md`](ROADMAP.md) for the current development direction.
+
+## Community
+
+Use GitHub Discussions for open-ended questions, semantic design, terminology, and broader project discussion. Use Issues for concrete, actionable problems and tasks.
+
 ## Contributing
 
 FlowScript is intended to be developed openly.
